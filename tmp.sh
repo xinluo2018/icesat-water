@@ -1,0 +1,1 @@
+python utils/read_atl03.py data/isat2/processed_ATL03*.h5 -o data/isat2/readout -n 4
